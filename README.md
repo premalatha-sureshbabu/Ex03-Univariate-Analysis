@@ -29,7 +29,7 @@ Use seaborn the bar graph comparison of data can be viewed.
 ## STEP 7
 Save the final data set into the file
 
-# CODE
+# CODE 1
 ```
 
 Name : S.Prema Latha
@@ -99,6 +99,34 @@ snb.countplot(x="Category",data=df)
 ![41](https://user-images.githubusercontent.com/120620842/228268601-566ea5f5-fe07-4691-9182-696e4e48d979.png)
 
 ![42](https://user-images.githubusercontent.com/120620842/228268656-4d2f127a-e8ba-4dc0-a7e7-c233576e3617.png)
+
+# CODE 2
+
+```
+import pandas as pd
+import seaborn as sns
+df1=pd.read_csv("diabetes.csv")
+print(df1)
+df1.info()
+df1.dtypes
+df1.skew()
+df1.describe()
+sns.boxplot(x='Glucose',data=df1)
+sns.countplot(x="Glucose",data=df1)
+sns.displot(df1["Glucose"]) 
+sns.histplot(x="Glucose",data=df1)
+df1.skew()
+df1.kurtosis()
+sns.boxplot(x="Insulin",data=df1)
+```
+# EDA - diabetes.csv
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM](https://user-images.githubusercontent.com/120620842/228314134-19535e94-c39d-4d15-b2fe-b357273fb9a4.jpeg)
+
+# Displaying information about Dataset
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (1)](https://user-images.githubusercontent.com/120620842/228314504-1780e4d4-a19f-49b4-8ed8-9fef1d60f681.jpeg)
+
 
 # RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
