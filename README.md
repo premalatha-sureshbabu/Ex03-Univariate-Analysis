@@ -141,6 +141,8 @@ sns.boxplot(x="Insulin",data=df1)
 
 ![WhatsApp Image 2023-03-28 at 10 45 12 PM](https://user-images.githubusercontent.com/120620842/228318019-83e3cf21-edf2-4833-b6cb-19d3e3d36dd7.jpeg)
 
+## Distribution of data
+
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (9)](https://user-images.githubusercontent.com/120620842/228317642-ec99a504-31e0-482a-a023-b5e9e698b2d4.jpeg)
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (10)](https://user-images.githubusercontent.com/120620842/228317786-96a18279-e431-4de0-9d94-fe28011ea003.jpeg)
