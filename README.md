@@ -141,13 +141,14 @@ sns.boxplot(x="Insulin",data=df1)
 
 ![WhatsApp Image 2023-03-28 at 10 45 12 PM](https://user-images.githubusercontent.com/120620842/228318019-83e3cf21-edf2-4833-b6cb-19d3e3d36dd7.jpeg)
 
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (12)](https://user-images.githubusercontent.com/120620842/228319234-0cab7162-9b91-477b-be12-00c48a59658f.jpeg)
+
 ## Distribution of data
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (9)](https://user-images.githubusercontent.com/120620842/228317642-ec99a504-31e0-482a-a023-b5e9e698b2d4.jpeg)
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (10)](https://user-images.githubusercontent.com/120620842/228317786-96a18279-e431-4de0-9d94-fe28011ea003.jpeg)
 
-![WhatsApp Image 2023-03-28 at 10 07 04 PM (11)](https://user-images.githubusercontent.com/120620842/228317874-31237d6f-66d3-4afa-956a-8abab05c93be.jpeg)
 
 # RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
