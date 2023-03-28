@@ -127,6 +127,25 @@ sns.boxplot(x="Insulin",data=df1)
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (1)](https://user-images.githubusercontent.com/120620842/228314504-1780e4d4-a19f-49b4-8ed8-9fef1d60f681.jpeg)
 
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (2)](https://user-images.githubusercontent.com/120620842/228315268-7fc67009-3b43-4d2b-bbb1-967f5ad4fb60.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (4)](https://user-images.githubusercontent.com/120620842/228316051-d1ac0860-e2cb-44bb-bb74-4f127cd10cdb.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (5)](https://user-images.githubusercontent.com/120620842/228316400-51e096fb-6a3e-4efa-b73a-2f7d3121b2d3.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (6)](https://user-images.githubusercontent.com/120620842/228316621-442cd182-b6cc-4763-8443-af3de270a8a6.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (7)](https://user-images.githubusercontent.com/120620842/228316784-83efbfb2-497b-49f7-b96a-49e150dbad83.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (8)](https://user-images.githubusercontent.com/120620842/228317002-0cc9c2d6-04b1-4772-81f3-aa94516ef83c.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 45 12 PM](https://user-images.githubusercontent.com/120620842/228318019-83e3cf21-edf2-4833-b6cb-19d3e3d36dd7.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (9)](https://user-images.githubusercontent.com/120620842/228317642-ec99a504-31e0-482a-a023-b5e9e698b2d4.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (10)](https://user-images.githubusercontent.com/120620842/228317786-96a18279-e431-4de0-9d94-fe28011ea003.jpeg)
+
+![WhatsApp Image 2023-03-28 at 10 07 04 PM (11)](https://user-images.githubusercontent.com/120620842/228317874-31237d6f-66d3-4afa-956a-8abab05c93be.jpeg)
 
 # RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
