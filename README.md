@@ -64,11 +64,11 @@ snb.countplot(x="Category",data=df)
 
 # OUTPUT
 
-# EDA - SuperStore.csv
+## EDA - SuperStore.csv
 
 ![31](https://user-images.githubusercontent.com/120620842/228266559-c5ee7866-5a27-47eb-876d-ec2456fb941d.png)
 
-# Displaying information about Dataset
+## Displaying information about Dataset
 
 ![32](https://user-images.githubusercontent.com/120620842/228266646-b6ddcdbb-a235-41d9-8dc7-1397f2106963.png)
 
@@ -76,19 +76,19 @@ snb.countplot(x="Category",data=df)
 
 ![34](https://user-images.githubusercontent.com/120620842/228266920-57ed130b-9696-4752-8112-b55377f843cc.png)
 
-# Finding null values and cleaning it
+## Finding null values and cleaning it
 
 ![35](https://user-images.githubusercontent.com/120620842/228267110-21e89b81-c4b4-4352-90b3-528ee177ee36.png)
 
-# Value counts of "Postal Code"
+## Value counts of "Postal Code"
 
 ![36](https://user-images.githubusercontent.com/120620842/228267334-691608a2-305d-40dc-8ec2-9ef7494d05af.png)
 
-# Distribution of Data
+## Distribution of Data
 
 ![37](https://user-images.githubusercontent.com/120620842/228267490-07d07778-520b-408a-8c4c-308ba2cc1873.png)
 
-# Univariate Analysis
+## Univariate Analysis
 
 ![38](https://user-images.githubusercontent.com/120620842/228267753-4202b9aa-5192-4402-a2f9-fb7c8b8ef812.png)
 
@@ -119,11 +119,11 @@ df1.skew()
 df1.kurtosis()
 sns.boxplot(x="Insulin",data=df1)
 ```
-# EDA - diabetes.csv
+## EDA - diabetes.csv
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM](https://user-images.githubusercontent.com/120620842/228314134-19535e94-c39d-4d15-b2fe-b357273fb9a4.jpeg)
 
-# Displaying information about Dataset
+## Displaying information about Dataset
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (1)](https://user-images.githubusercontent.com/120620842/228314504-1780e4d4-a19f-49b4-8ed8-9fef1d60f681.jpeg)
 
