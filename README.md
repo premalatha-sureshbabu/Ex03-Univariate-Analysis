@@ -129,9 +129,9 @@ sns.boxplot(x="Insulin",data=df1)
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (2)](https://user-images.githubusercontent.com/120620842/228315268-7fc67009-3b43-4d2b-bbb1-967f5ad4fb60.jpeg)
 
-![WhatsApp Image 2023-03-28 at 10 07 04 PM (4)](https://user-images.githubusercontent.com/120620842/228316051-d1ac0860-e2cb-44bb-bb74-4f127cd10cdb.jpeg)
-
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (5)](https://user-images.githubusercontent.com/120620842/228316400-51e096fb-6a3e-4efa-b73a-2f7d3121b2d3.jpeg)
+
+## Univariate analysis
 
 ![WhatsApp Image 2023-03-28 at 10 07 04 PM (6)](https://user-images.githubusercontent.com/120620842/228316621-442cd182-b6cc-4763-8443-af3de270a8a6.jpeg)
 
